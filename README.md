@@ -1,0 +1,1 @@
+- Solar energy prediction across Germany
