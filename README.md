@@ -1,5 +1,7 @@
 #### Solar Energy Prediction
 
+The project contributors: Shu Xu, Junjun Shen, Kathrin Seibt and Bimla Danu.  
+
 This project focuses on predicting solar energy generation using data analysis, machine learning, and time-series forecasting techniques. The main objective is to understand how environmental and weather-related parameters influence solar power output and to build predictive models for renewable energy forecasting.
 
 The workflow includes:
